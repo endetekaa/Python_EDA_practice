@@ -17,6 +17,5 @@
 - **Description**: A large-scale image–text dataset designed for multimodal learning tasks.  
 - **Contents**: 31,000 images collected from Flickr, each paired with 5 human-annotated textual descriptions.
 
-> After EDA, machine learning/deep learning models were applied to perform classification/image retrieval (Flickr30k) tasks.
+> After EDA, machine learning/deep learning models were applied to perform classification/image retrieval tasks.
 
-**[🔗 Link to project: EDA_Python](https://github.com/endetekaa/Python_EDA_practice)**
